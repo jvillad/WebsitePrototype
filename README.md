@@ -4,10 +4,12 @@ A prototype of my personal website. Designed using HTML and CSS (will add script
 Site content to showcase my projects, skills, and tools that I am familiar with. 
 
 Tools and Guide:
-- https://skourse-html-css-workshop.netlify.app/
+
 - MDN Web Docs
+- Javascript
 - HTML
 - CSS
+- Guide and wisdom by [Arnelle](https://github.com/arnellebalane) 😁
 
 ### Screenies <br><br>
 
