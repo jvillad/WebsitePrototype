@@ -100,6 +100,7 @@ nav {
     transform: translateX(0%);
 }
 /* End Navigation Bar */
+
 .about-section h2{
     display: none;
 }
@@ -109,8 +110,8 @@ nav {
     max-width: 1000px;    
     padding-top: 0px 24px;
     margin: 150px auto;
-    margin-bottom: 0;
-    
+   
+    height: 100vh;
     text-align: center; 
     display: flex;
     
@@ -174,14 +175,15 @@ nav {
     /* color: #114B5F */
     /* color: #dbceb4 */
 }
-
 .about-section {
     /* max-width: 760px; */
     max-width: 1000px;
     /* padding: 150px 24px; */
     margin: 0px auto;
-    margin-bottom: 150px;
+    height: 100vh;
+    padding-top: 150px;
     text-align: center;
+    justify-content: center;
 }
 
 .about-section h2 {
