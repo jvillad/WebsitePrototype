@@ -61,8 +61,8 @@ nav {
     margin: 3px;
     background-color: black;
 }
-
-@media screen and (max-width:980px) {
+/* From 980 to 1010px */
+@media screen and (max-width:1010px) {
     .nav-links {
        
         width: 50%;
